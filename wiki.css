@@ -1,0 +1,67 @@
+a{
+
+	color: blue;
+	text-decoration: none;
+
+
+}
+
+.h2{
+
+	border-top: grey 3px solid;
+	padding-top: 20px;
+
+}
+
+div {
+	
+	border-top: grey 3px solid;
+	padding-top: 20px;
+
+}
+
+#p1 {
+
+	padding-bottom: 20px;
+}
+
+.nav-bar {
+    float: right;
+    margin-left: 50px;
+    border: 2px dashed pink;
+    padding: 20px;
+    background-color: yellow;
+}
+
+.h3{
+
+	border-top: grey 3px solid;
+	padding-top: 20px;
+
+}
+
+#p2 {
+
+	padding-bottom: 20px;
+}
+
+.h1{
+
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 3px dotten yellow;
+	padding: 10px;
+	background-color: red;
+		color: pink;
+
+}
+
+.image {
+
+float: left;
+margin-top: 20px;
+border: 2px solid black;
+padding: 20px;
+background-color: grey;
+}
